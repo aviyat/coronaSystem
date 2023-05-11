@@ -1,0 +1,12 @@
+.logo{
+width:200px;
+height:100px;    
+}
+.collapse{
+    background-color: lightgreen;
+}
+#add{
+color: white;
+font-size: 30px;
+padding-right: 100px;
+}

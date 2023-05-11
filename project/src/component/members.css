@@ -1,0 +1,83 @@
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  margin: 40px;
+  text-align: center;
+  font-family: arial;
+  display: inline-block;
+  max-width: 1000px !important;
+  height: 300px !important;
+
+}
+
+
+.card-text {
+  color: grey;
+  font-size: 20px;
+  font-weight: bold;
+
+}
+.title_site{
+  font-size: 60px;
+
+}
+
+.btn1 {
+  border: none;
+  outline: 0;
+  padding: 7px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 18px;
+}
+#btn_details{
+  background-color: white; 
+  color: black; 
+  border: 2px solid #4CAF50;
+
+}
+/* #btn_delete{
+  background-color: white; 
+  color: black; 
+  border: 2px solid #4CAF50;
+} */
+.invalid-input{
+  display: block;
+  color: red;
+  font-size: 12px;
+}
+.btn1:hover {
+  opacity: 0.7;
+}
+
+.card-img-top {
+  height: 100px;
+  width: auto;
+  margin: 10px;
+  /* margin: 10px; */
+}
+
+h1 {
+  color: lightgreen;
+}
+
+.package-img-img {
+  width: 150px;
+  height: 100px;
+  border-radius: 10px;
+}
+
+.modal-title {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.title2 {
+  border-bottom: 3px solid;
+
+}
+.titleAdd{
+  color: #4CAF50;
+}
